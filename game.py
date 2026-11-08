@@ -164,4 +164,3 @@ while game_running:
                     print("You are dead.")
                     game_running = False
 
-    print("")
